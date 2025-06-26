@@ -1,0 +1,85 @@
+*{
+	margin:0;
+	padding:0;
+}
+div{
+	background-color:black;
+color:yellow;
+margin-right:15%;
+margin-left:15%;
+margin-bottom:20%;
+padding-left:15%;
+}
+button{
+	margin:50px;
+width:200px;
+height:30px;
+font-size:20px;
+}
+.a{
+	background-color:red;
+	
+}
+.b{
+	background-color:yellow;
+	color:red;
+	border-radius:15px;
+}
+.c{
+	background-color:purple;
+	color:white;
+	border-color:white;
+}
+.d{
+	border-style:dashed;
+	border-color:white;
+	background-color:purple;
+	border-radius:15px;
+}
+.e{
+	border-style:dotted;
+	border-color:white;
+	background-color:green;
+	border-radius:5px;
+}
+.f{ 
+border-style:dashed;
+	border-color:white;
+	background-color:green;
+	border-radius:5px;
+}
+.g{
+	border-style:solid;
+	border-color:red;
+	background-color:yellow;
+	border-radius:5px;
+}
+.h{
+	color:red;
+	border-radius:20px 0px 20px 0px;
+	border: inset purple;
+}
+.i{
+	background-color:pink;
+	border-radius:0px 20px 0px 20px ;
+	border-color:purple;
+}
+.k{
+	background-color:pink;
+	border-style:dotted;
+	border-radius:0px 20px 0px 20px;
+}
+.l{
+	background-color:grey;
+	border-left:dotted;
+	border-right:dotted;
+}
+	
+.j{
+	background-color:blue;
+	color:white;
+	border-top:dashed;
+	border-bottom:solid;
+	border-radius:20px 0px 20px 0px;
+}
+	
